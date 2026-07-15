@@ -1,0 +1,6 @@
+{
+  "name": "DeepWork Space",
+  "description": "A high-performance command center for deep work, routine tracking, and focus analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
